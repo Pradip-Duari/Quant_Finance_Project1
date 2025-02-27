@@ -1,0 +1,6 @@
+ipykernel
+Numpy
+Pandas
+Matplotlib
+Seaborn
+Networkx
